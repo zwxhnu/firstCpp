@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="92a24f20-d557-45bf-bc7a-8066f0d0178e" name="10.10.87.76" url="http://10.10.87.76">
+        <fileTransfer host="10.10.87.76" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="67c5ce36-f4cc-41cc-97f1-5802bf919082" name="sftp" url="http://10.10.87.76">
+        <fileTransfer host="10.10.87.76" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b021cab3-3e84-4aeb-b3f9-a340374c2152" name="test" url="http://10.10.87.76">
+        <fileTransfer host="10.10.87.76" port="22" rootFolder="/home/bob/yourProject" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

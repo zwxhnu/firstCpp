@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="firstCpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testqueue_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/testqueue_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 testqueue_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testqueue_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/testqueue_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 testqueue_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="file_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/file_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 file_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="file_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/file_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 file_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multithread_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/multithread_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 multithread_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multithread_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/multithread_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 multithread_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prodcons_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/prodcons_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 prodcons_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="prodcons_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/prodcons_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 prodcons_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reference_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/reference_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 reference_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="reference_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/reference_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 reference_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="preprocessor_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/preprocessor_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 preprocessor_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="preprocessor_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/preprocessor_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 preprocessor_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="template_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/template_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 template_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="template_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/template_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 template_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="namespace_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/namespace_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 namespace_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="namespace_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/namespace_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 namespace_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exception_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/exception_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 exception_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exception_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/exception_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 exception_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode80-89_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/leetcode80-89_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode80-89_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode80-89_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/leetcode80-89_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 leetcode80-89_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inherit_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/inherit_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 inherit_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inherit_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/inherit_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 inherit_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="struct_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/struct_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 struct_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="struct_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/struct_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 struct_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tthread_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/tthread_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 tthread_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tthread_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/tthread_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 tthread_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="polymorphism_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/polymorphism_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 polymorphism_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="polymorphism_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/polymorphism_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 polymorphism_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pointer_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/pointer_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 pointer_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pointer_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/pointer_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 pointer_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fduqueue_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/fduqueue_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 fduqueue_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fduqueue_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/fduqueue_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 fduqueue_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signal_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/signal_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 signal_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="signal_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/signal_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 signal_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overload_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/overload_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 overload_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="overload_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/overload_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 overload_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abstract_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/abstract_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 abstract_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="abstract_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/abstract_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 abstract_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/string_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 string_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="string_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/string_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 string_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mem_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/mem_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 mem_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mem_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/mem_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 mem_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="firstCpp">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/firstCpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstCpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="firstCpp/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/firstCpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 firstCpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/thread_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="thread_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/thread_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 thread_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class_mgr">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/class_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 class_mgr"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class_mgr/fast">
+				<Option output="/Users/apple/CLionProjects/firstCpp/cmake-build-debug/class_mgr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/apple/CLionProjects/firstCpp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 class_mgr/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/apple/CLionProjects/firstCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/PointerMgr.cpp">
+			<Option target="pointer_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/ReferenceMgr.cpp">
+			<Option target="reference_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/StringMgr.cpp">
+			<Option target="string_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/StructMgr.cpp">
+			<Option target="struct_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/ExceptionMgr.cpp">
+			<Option target="exception_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/FileMgr.cpp">
+			<Option target="file_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/MemMgr.cpp">
+			<Option target="mem_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/NamespaceMgr.cpp">
+			<Option target="namespace_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/PreprocessorMgr.cpp">
+			<Option target="preprocessor_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/SignalMgr.cpp">
+			<Option target="signal_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/TemplateMgr.cpp">
+			<Option target="template_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/advanced/ThreadMgr.cpp">
+			<Option target="thread_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/learning/FduQueue.cpp">
+			<Option target="fduqueue_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/learning/FduQueue.h">
+			<Option target="fduqueue_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/learning/TestqueueMgr.cpp">
+			<Option target="testqueue_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/leetcode/leetcode80-89.cpp">
+			<Option target="leetcode80-89_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/main.cpp">
+			<Option target="firstCpp"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/object-oriented/AbstractMgr.cpp">
+			<Option target="abstract_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/object-oriented/ClassMgr.cpp">
+			<Option target="class_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/object-oriented/OverloadMgr.cpp">
+			<Option target="overload_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/object-oriented/PolymorphismMgr.cpp">
+			<Option target="polymorphism_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/object-oriented/inheritMgr.cpp">
+			<Option target="inherit_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/thread/MultithreadMgr.cpp">
+			<Option target="multithread_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/thread/Producer-consumer.cpp">
+			<Option target="prodcons_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/thread/ThreadMgr.cpp">
+			<Option target="tthread_mgr"/>
+		</Unit>
+		<Unit filename="/Users/apple/CLionProjects/firstCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

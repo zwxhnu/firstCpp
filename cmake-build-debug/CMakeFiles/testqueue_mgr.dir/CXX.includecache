@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/apple/CLionProjects/firstCpp/learning/FduQueue.cpp
+iostream
+-
+string
+-
+cstring
+-
+string.h
+-
+cmath
+-
+math.h
+-
+FduQueue.h
+/Users/apple/CLionProjects/firstCpp/learning/FduQueue.h
+thread
+-
+
+/Users/apple/CLionProjects/firstCpp/learning/FduQueue.h
+mutex
+-
+condition_variable
+-
+string
+-
+
+/Users/apple/CLionProjects/firstCpp/learning/TestqueueMgr.cpp
+ctime
+-
+string
+-
+vector
+-
+FduQueue.h
+/Users/apple/CLionProjects/firstCpp/learning/FduQueue.h
+FduQueue.cpp
+/Users/apple/CLionProjects/firstCpp/learning/FduQueue.cpp
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/apple/CLionProjects/firstCpp/advanced/ThreadMgr.cpp
+iostream
+-
+pthread.h
+-
+string
+-
+cstring
+-
+string.h
+-
+sstream
+-
+
