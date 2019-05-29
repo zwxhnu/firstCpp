@@ -37,6 +37,8 @@ int main() {
 //
 //    void *p;
 //    p = getRandom();
+
+
 //    for (int i = 0; i < 6; i++) {
 //        cout << *((int *)p + i) << endl;
 //    }

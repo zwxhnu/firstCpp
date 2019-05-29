@@ -42,7 +42,7 @@ struct Node {
 /// Note: 内存池中内存块的大小是固定的，内存节点的大小也是固定的。内存块在申请之初就被划分为多个内存节点，每个Node的大小为ItemSize。
 template<class T>
 class NodeMemPool {
-public:
+private:
     /// 节点大小
     size_t node_size_;
     /// 每个块中节点个数
